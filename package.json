@@ -1,0 +1,22 @@
+{
+  "name": "click_n_tofus",
+  "version": "0.0.1",
+  "description": "Idle game developed with love by Dofusbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannick-milanetto/click_n_tofus.git"
+  },
+  "author": "Yannick Milanetto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yannick-milanetto/click_n_tofus/issues"
+  },
+  "homepage": "https://github.com/yannick-milanetto/click_n_tofus#readme",
+  "dependencies": {
+    "mainloop.js": "^1.0.4"
+  }
+}
